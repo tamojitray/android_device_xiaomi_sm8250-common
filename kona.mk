@@ -201,7 +201,7 @@ PRODUCT_PACKAGES += \
     libstdc++.vendor
 
 PRODUCT_PACKAGES += \
-    Snap
+    GCamGOPrebuilt
 
 # Camera motor
 PRODUCT_PACKAGES += \
